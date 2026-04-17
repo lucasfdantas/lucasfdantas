@@ -33,3 +33,11 @@ Atuo na interseção entre infraestrutura de rede e desenvolvimento de software.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasfdantasrj@gmail.com)
 
 ---
+
+### 📜 Certificações Recentes (DIO/Accenture)
+- **Python para Análise e Automação de Dados:** Boas-vindas ao Accenture - Python para Análise e Automação de Dados.
+- **A Era da IA:** Machine Learning, LLMs, IA Generativa e Agentes.
+- **AI for Software Development:** Introdução à Engenharia de Prompts e Utilizando Copilotos de Desenvolvimento de Software.
+- **Aplicações Práticas da Inteligência Artificial:** Focado em implementação e uso real de tecnologias de IA.
+  
+---
